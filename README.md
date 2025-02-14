@@ -1,0 +1,1 @@
+This example demonstrates a common error in Perl where implicit string concatenation can lead to unexpected behavior.  When adding a number to a string, Perl will perform string concatenation instead of numerical addition.  The solution shows how to explicitly convert the string to a number before performing the addition.
